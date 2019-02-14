@@ -1,7 +1,5 @@
 #!/bin/bash
 
-accessToken="bc5dd45216c8548b571f9fdc81bdaebd94b63eb4"
-
 usage()
 {
     echo "usage: getTeamMembers:
